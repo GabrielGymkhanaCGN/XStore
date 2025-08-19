@@ -1,0 +1,4 @@
+    * Backup Settings
+    * Remove Translate
+    * Move permission access
+    * NDK install data moved
